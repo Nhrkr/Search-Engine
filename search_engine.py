@@ -1,3 +1,4 @@
+#added git version control
 import urllib
 max_limit=5
 def get_page(url):#This function is just to return the webpage contents; the source of the webpage when a url is given.
